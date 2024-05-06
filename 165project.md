@@ -175,4 +175,4 @@ predicted_score_2024 <- predicted_scores[length(predicted_scores)]
 print(paste("Predicted score for 2024: ", predicted_score_2024))
 ```
 
-    ## [1] "Predicted score for 2024:  14.5851480000002"
+    ## [1] "Predicted score for 2024:  14.5823240000003"
